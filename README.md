@@ -13,6 +13,15 @@ You take on the role as a leader of a corporation starting in high-sec safe spac
 
 There is no real winning condition and in this **Beta 1** there are still many future mechanics missing.
 
+### Screenshots
+![Screenshot 1](assets/image1.png)
+
+![Screenshot 2](assets/image2.png)
+
+![Screenshot 3](assets/qqq.png)
+
+![Screenshot 4](assets/sss.png)
+
 ### Installation Notes
 *   Since this is a hobby project, **Windows SmartScreen will flag it**. The executable has not been paid to be verified by Microsoft - this is expected, click "More info" -> "Run anyway" if you trust the source.
 *   You may need to have **Visual Studio Redistributable / Visual Studio** installed if it is not already on your computer.
